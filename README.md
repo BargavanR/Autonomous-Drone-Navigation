@@ -1,4 +1,4 @@
-# Autonomous-Drone-Navigation-System using HoverAviary
+# Waypoint-Drone-Navigation-System using HoverAviary
 
 ## Overview
 This project is a **drone waypoint navigation system** built using the **HoverAviary** environment from `gym-pybullet-drones`. The system enables a drone to navigate through a sequence of predefined waypoints, visually marking each waypoint and updating its status upon reaching it. The drone's control mechanism is implemented using **DSLPIDControl**.
