@@ -12,13 +12,14 @@ This project is a **drone waypoint navigation system** built using the **HoverAv
 - **Simulation parameters:** Configurable physics engine, control frequency, and GUI.
 
 ## Demo
-![Image](https://github.com/user-attachments/assets/b27eefd9-322d-4d16-957d-b739e23c9215)
+
+
 
 ## Installation
 Clone this repository and navigate to the project directory:
 
 ```bash
-git clone [https://github.com/BargavanR/Autonomous-Drone-Navigation-Challenge.git]
+git clone https://github.com/BargavanR/Autonomous-Drone-Navigation-Challenge.git
 cd Drone-navigation-system
 pip install -r Requirements.txt
 ```
